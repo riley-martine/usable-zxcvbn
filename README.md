@@ -13,3 +13,6 @@ Bower can be installed via "npm install -g bower" and npm is installed with node
 Heavy code used from https://css-tricks.com/password-strength-meter/, but there was a funny issue when passwords with too many things wrong with them were used (e.g. "House1").
 
 Attempted to use code from https://dl.dropboxusercontent.com/u/209/zxcvbn/test/index.html, but opted not to as it was way complicated and did so much I didn't want. 
+
+
+Do whatever you want with this, it'd be cool if you let me know if I helped you out though.
