@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"></meta>
+  <title>ZXCVBN Demo</title>
+  <link rel="stylesheet" href="styles/main.css" type="text/css"></link>
+</head>
+
+    <body>
+      <div>
+          <form method="post" style="width: 30%;">
+
+              <div class="form-group col-sm-12">
+              	<input type="password"
+                       placeholder="Password"
+		       id="password"
+                       required />
+              </div>
+              <button type="submit" name="btn-signup">Submit</button>
+              <meter max="4" id="password-strength-meter"></meter>
+              <div><p id="password-strength-text" class="feedback" ></p></div>
+
+          </form>
+
+
+      </div>
+      <script src="bower_components/zxcvbn/dist/zxcvbn.js"></script>
+      <script src="js/rate.js"></script>
+
+    </body>
+</html>
