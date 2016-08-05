@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/934b878d366e476babfb5ce415026056)](https://www.codacy.com/app/***REMOVED***/usable-zxcvbn?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=riley-martine/usable-zxcvbn&amp;utm_campaign=Badge_Grade)
 # usable-zxcvbn
 Example implementation of zxcvbn for a password field. Displays colored meter with strength 1-4 and suggestions to improve password.
 
